@@ -19,10 +19,11 @@ Interactive Grid Builder is a simple web tool that allows users to create and cu
 
 
 Add elements to where you want them...
-![External Image](https://example.com/path/to/your/image.jpg)
+
+![External Image]([https://example.com/path/to/your/image.jpg](https://raw.githubusercontent.com/kai9987kai/HtmlGridLayout-Generator/main/Screenshot%202023-12-19%20193610.png))
 
 
 Get Generated code for the layout...
 
-![External Image](https://example.com/path/to/your/image.jpg)
+![External Image]([https://example.com/path/to/your/image.jpg](https://raw.githubusercontent.com/kai9987kai/HtmlGridLayout-Generator/main/Screenshot%202023-12-19%20193700.png)https://raw.githubusercontent.com/kai9987kai/HtmlGridLayout-Generator/main/Screenshot%202023-12-19%20193700.png)
 
